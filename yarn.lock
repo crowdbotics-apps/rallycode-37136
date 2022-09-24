@@ -1247,7 +1247,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/menu@file:./screens/menu/":
+"@screens/map-live-tracking@file:./screens/map-live-tracking/":
+  version "1.0.0"
+
+"@screens/menu@file:./screens/menu":
   version "1.0.0"
 
 "@screens/search-listing@file:./screens/search-listing":
