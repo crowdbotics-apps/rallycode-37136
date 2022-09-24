@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-splash](modules/splash)
 - [screen-search-listing](screens/search-listing)
 - [react-native-onboarding](modules/onboarding)
+- [screen-menu](screens/menu)
 
 # Getting started: Frontend
 
