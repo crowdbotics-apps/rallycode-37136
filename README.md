@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-menu](screens/menu)
 - [screen-map-live-tracking](screens/map-live-tracking)
 - [react-native-login](modules/login)
+- [screen-invite-friends](screens/invite-friends)
 
 # Getting started: Frontend
 
